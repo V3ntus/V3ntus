@@ -2,6 +2,14 @@
 <h3 align="center">I'm Ventus, Gladius Synthetic Orchestra, or just Joe</h3>
 <p style="text-align: center;" align="center">I'm a young software developer, film composer, video and audio production nerd- actually, just a general nerd. Yeap.</p>
 
+<!-- [![Spotify](https://novatorem-v3ntus.vercel.app/api/spotify)](https://open.spotify.com/user/3xcalibur) -->
+<code><h2 align="center">Now Playing:</h2></code>
+<p align="center">
+  <a href="https://open.spotify.com/user/3xcalibur">
+    <img src="https://novatorem-v3ntus.vercel.app/api/spotify">
+  </a>
+</p>
+
 ---
 ## 🎶 My music:
 ```py
@@ -31,18 +39,3 @@ print(github.stats(user="V3ntus"))
 print(github.stats(user="V3ntus").topLangs)
 ```
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**V3ntus/V3ntus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
