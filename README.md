@@ -5,7 +5,7 @@
 <!-- [![Spotify](https://novatorem-v3ntus.vercel.app/api/spotify)](https://open.spotify.com/user/3xcalibur) -->
 <code><h2 align="center">Now Playing:</h2></code>
 <p align="center">
-  <a href="https://open.spotify.com/user/3xcalibur">
+  <a href="https://open.spotify.com/user/gyz3ziwahk4tx7nneinkwa1u4">
     <img src="https://novatorem-v3ntus.vercel.app/api/spotify">
   </a>
 </p>
