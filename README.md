@@ -34,6 +34,8 @@ print(socials_tree.all)
 import github
 print(github.stats(user="V3ntus"))
 ```
+> ![](https://komarev.com/ghpvc/?username=V3ntus&style=flat-square)
+>
 > [![V3ntus' GitHub stats](https://github-readme-stats.vercel.app/api?username=V3ntus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ```py
 print(github.stats(user="V3ntus").topLangs)
