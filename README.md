@@ -41,3 +41,5 @@ print(github.stats(user="V3ntus"))
 print(github.stats(user="V3ntus").topLangs)
 ```
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://hit.yhype.me/github/profile?user_id=29584664)
