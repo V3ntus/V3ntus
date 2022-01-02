@@ -42,4 +42,7 @@ print(github.stats(user="V3ntus").topLangs)
 ```
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Hackthebox.eu:
+<img src="https://www.hackthebox.com/badge/image/94467" />
+
 ![](https://hit.yhype.me/github/profile?user_id=29584664)
