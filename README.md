@@ -36,11 +36,11 @@ print(github.stats(user="V3ntus"))
 ```
 > ![](https://komarev.com/ghpvc/?username=V3ntus&style=flat-square)
 >
-> [![V3ntus' GitHub stats](https://github-readme-stats.vercel.app/api?username=V3ntus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+> [![V3ntus' GitHub stats](https://github-readme-stats.vercel.app/api?username=V3ntus&show_icons=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ```py
 print(github.stats(user="V3ntus").topLangs)
 ```
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&show_icons=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hackthebox.eu:
 <img src="https://www.hackthebox.com/badge/image/94467" />
