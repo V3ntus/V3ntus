@@ -1,10 +1,11 @@
 # Hi there 👋
-<h3 align="center">I'm Ventus, Gladius Synthetic Orchestra, or just Joe</h3>
-<p style="text-align: center;" align="center">I'm a young software developer, film composer, video and audio production nerd- actually, just a general nerd. Yeap.</p>
-<p style="text-align: center;" align="center"><b>Helper, contributor, and external developer at <code><a href="https://github.com/interactions-py/">interactions.py</a></code></b></p>
+<h3>I'm Ventus, Gladius Synthetic Orchestra, or just Joe</h3>
+<p>I'm a young software developer, film composer, video and audio production nerd- actually, just a general nerd. Yeap.</p>
+<p>- <b>Helper, contributor, and external developer at <code><a href="https://github.com/interactions-py/">interactions.py</a></code></b></p>
+<p>- <b>Sole maintainer of <code><a href="https://github.com/V3ntus/darvester/">darvester</a></code>, a full fledged Discord OSINT utility</b>
 
 <!-- [![Spotify](https://novatorem-v3ntus.vercel.app/api/spotify)](https://open.spotify.com/user/3xcalibur) -->
-<code><h2 align="center">Now Playing:</h2></code>
+<h2 align="center"><code>Now Playing:</code></h2>
 <p align="center">
   <a href="https://open.spotify.com/user/gyz3ziwahk4tx7nneinkwa1u4">
     <img src="https://novatorem-v3ntus.vercel.app/api/spotify">
