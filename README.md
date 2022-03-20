@@ -21,9 +21,9 @@ print(socials_tree.all)
 ><div align="left"><img src="https://img.shields.io/youtube/channel/views/UCd1b9ppiouhWje92RNfM0fA?style=flat-square">  <img src="https://img.shields.io/youtube/channel/subscribers/UCd1b9ppiouhWje92RNfM0fA?style=flat-square"></div>
 >
 > I usually promote my music first, as that's what I am known for  
-> - [My Website](https://gladiusmusic.rf.gd) or my [Github Page](https://v3ntus.github.io)
-> - [YouTube](https://www.youtube.com/c/GladiusSyntheticOrchestra)
-> - [Spotify](https://open.spotify.com/artist/4NXjwAooTVsCxIoSsmD2ns?si=a9ae6f7b2425402c)
+> - [My Website](https://gladiusso.com)  
+> - [YouTube](https://www.youtube.com/c/GladiusSyntheticOrchestra)  
+> - [Spotify](https://open.spotify.com/artist/4NXjwAooTVsCxIoSsmD2ns?si=a9ae6f7b2425402c)  
 > - [Apple Music](https://music.apple.com/us/artist/gladius-synthetic-orchestra/1493153485)  
 > #### Social Media:
 > - [Instagram](https://instagram.com/GladiusSyntheticOrchestra)
