@@ -1,8 +1,7 @@
 # Hi there 👋
 <h3>I'm Ventus, Gladius Synthetic Orchestra, or just Joe</h3>
 <p>I'm a young software developer, film composer, video and audio production nerd- actually, just a general nerd. Yeap.</p>
-<p>- <b>Helper, contributor, and external developer at <code><a href="https://github.com/interactions-py/">interactions.py</a></code></b></p>
-<p>- <b>I do lots with the Discord API</b></p>
+<p>- <b>Sole developer of <code>darvester</code></b></p>
 
 <!-- [![Spotify](https://novatorem-v3ntus.vercel.app/api/spotify)](https://open.spotify.com/user/3xcalibur) -->
 <h2 align="center"><code>Now Playing:</code></h2>
