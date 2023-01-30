@@ -47,6 +47,6 @@ print(github.stats(user="V3ntus").topLangs)
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V3ntus&show_icons=true&title_color=ffffff&bg_color=000000&text_color=ffffff&icon_color=ffffff&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hackthebox.eu:
-<img src="https://www.hackthebox.com/badge/image/94467" />
+<a href="https://app.hackthebox.com/profile/94467"><img src="https://www.hackthebox.com/badge/image/94467" /></a>
 
 ![](https://hit.yhype.me/github/profile?user_id=29584664)
