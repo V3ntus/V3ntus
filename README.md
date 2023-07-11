@@ -3,6 +3,7 @@
 <p>I'm a young software developer, film composer, video and audio production nerd- actually, just a general nerd. Yeap.</p>
 <ul>
   <li><b>Sole developer of <code>darvester</code></b></li>
+  <li><b>Currently developing internal software for an engineering firm, written in Flutter</b></li>
   <li><b><a href="https://v3ntus.gitbook.io/">GitBook</a></b></li>
 </ul>
 
